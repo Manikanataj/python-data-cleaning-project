@@ -20,4 +20,4 @@ raw_data → scripts → cleaned_data
 - Saved clean data for analytics
 
 ## Result
-Clean customer data generated successfully.
+Clean customer data generated successfully..
